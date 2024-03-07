@@ -1,5 +1,5 @@
 ### mail-sender
-Using [nodemailer](https://www.npmjs.com/package/nodemailer) to sent mails
+Using **[nodemailer](https://www.npmjs.com/package/nodemailer)** to sent mails
 
 ***
 ### Installations (local)
@@ -31,3 +31,6 @@ Start the application using the following command:
 ```bash
 node index
 ```
+
+P.S.: You need to create and specify values in **.env** file
+
